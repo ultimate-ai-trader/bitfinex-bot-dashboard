@@ -1,0 +1,19 @@
+
+body.neon {
+  background-color: #0d0d0d;
+  color: #00ffe1;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 2rem;
+}
+h1 {
+  text-shadow: 0 0 10px #00ffe1, 0 0 20px #0077ff;
+}
+button {
+  margin: 1rem;
+  padding: 1rem 2rem;
+  background-color: #111;
+  color: #00ffe1;
+  border: 1px solid #00ffe1;
+  border-radius: 5px;
+  cursor: pointer;
+}
